@@ -1,0 +1,48 @@
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.deps.json
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.dll
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.pdb
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.dll
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.dll
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.pdb
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.pdb
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.AssemblyInfo.cs
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csproj.CopyComplete
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.dll
+C:\Users\vmadmin\source\repos\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.pdb
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.deps.json
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.dll
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.pdb
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.dll
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.dll
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.pdb
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.pdb
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.AssemblyInfo.cs
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csproj.CopyComplete
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.dll
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.pdb
+C:\Users\vmadmin\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.deps.json
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.dll
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.pdb
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.dll
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.dll
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessEntities.pdb
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\bin\Debug\netcoreapp2.0\MT.OnlineRestaurant.DataLayer.pdb
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.AssemblyInfo.cs
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csproj.CopyComplete
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.dll
+C:\Users\vmadmin\source\repos\301 project 120720\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.pdb
+C:\Users\Nishant\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Nishant\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nishant\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Nishant\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.AssemblyInfo.cs
+C:\Users\Nishant\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.dll
+C:\Users\Nishant\Desktop\301-Restaurant-Project\MT.OnlineRestaurant.SearchManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.pdb
