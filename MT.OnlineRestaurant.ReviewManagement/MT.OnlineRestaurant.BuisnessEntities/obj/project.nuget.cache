@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QyRTkNFjm0EJaD74z0Tja/yb9cgWO9j0zR7ImicESrUAoSfEYU+SyjOxBmcyvQ1guT3hmU5blPH+XDRXG9X6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nishant\\Desktop\\RestaurantProject071020\\301-Restaurant-Project\\MT.OnlineRestaurant.ReviewManagement\\MT.OnlineRestaurant.BuisnessEntities\\MT.OnlineRestaurant.BuisnessEntities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nishant\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Nishant\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Nishant\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Nishant\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Nishant\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Nishant\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
